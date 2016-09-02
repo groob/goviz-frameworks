@@ -12,22 +12,22 @@ Web frameworks
 ## Gin
 
 https://gin-gonic.github.io/gin/
-![Gin](svg/gin.svg)
+![Gin](png/gin.png)
 
 ## Beego
 
 http://beego.me/
-![Beego](svg/beego.svg)
+![Beego](png/beego.png)
 
 ## Goji
 
 https://github.com/zenazn/goji
-![Goji](svg/goji.svg)
+![Goji](png/goji.png)
 
 ## Revel
 
 https://revel.github.io/
-![Goji](svg/revel.svg)
+![Goji](png/revel.png)
 
 Microservice Frameworks
 ---
@@ -35,17 +35,17 @@ Microservice Frameworks
 ## Go Kit
 
 http://gokit.io/
-![Go Kit](svg/gokit-http.svg)
+![Go Kit](png/gokit-http.png)
 
 ## Kite
 
 https://github.com/koding/kite
-![Kite](svg/kite.svg)
+![Kite](png/kite.png)
 
 ## Micro
 
 https://github.com/micro/go-micro
-![Kite](svg/micro.svg)
+![Kite](png/micro.png)
 
 Sample Applications
 ---
@@ -53,24 +53,24 @@ Sample Applications
 ## Built with net/http
 
 - Vault https://github.com/hashicorp/vault
-![Vault](svg/vault.svg)
+![Vault](png/vault.png)
 
 ## Built with go-kit
 
 
 - Domain Drive Design Sample App https://github.com/marcusolsson/goddd
-![goddd](svg/goddd.svg)
+![goddd](png/goddd.png)
 
 - SCEP Server (a single go-kit service) https://github.com/micromdm/scep
-![SCEP Server](svg/scepserver.svg)
+![SCEP Server](png/scepserver.png)
 
 - MicroMDM (a collection of microservices packaged together)
-![micromdm](svg/micromdm.svg)
+![micromdm](png/micromdm.png)
 
 ## Built with Gin
 
 - Drone CI https://github.com/drone/drone
-![Drone](svg/drone.svg)
+![Drone](png/drone.png)
 
 
 
