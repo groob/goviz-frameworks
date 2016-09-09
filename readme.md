@@ -1,6 +1,6 @@
 Overview
 ---
-I used [goviz](github.com/hirokidaichi/goviz) to vizualize the dependency graphs of various Go http frameworks/libraries.
+I used [goviz](https://github.com/hirokidaichi/goviz) to vizualize the dependency graphs of various Go http frameworks/libraries.
 Here are the results.
 What would be even more interesting is to vizualize some of the projects which are using these frameworks. 
 I saved a few of the graphs in the [Sample Applications] section below.
